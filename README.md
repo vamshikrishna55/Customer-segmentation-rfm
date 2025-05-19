@@ -83,7 +83,7 @@ Clusters were labeled as:
 ## 👤 Author
 **Vamshi Krishna Reddy Attla**  
 - 📧 vamshikrishna.reddy555@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/vamsikrishna11/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vamshikrishna11/)
 
 ---
 
